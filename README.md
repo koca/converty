@@ -2,9 +2,14 @@
 
 Transform your data. It works offline. Built with [Vue](https://vuejs.org/) and [Tailwindcss](https://tailwindcss.com/).
 
-Live: [converty.surge.sh](https://converty.surge.sh)
+Live: [converty.netlify.sh](https://converty.netlify.sh)
 
 ![Screenshot of Converty](src/assets/screenshot.png)
+
+## Lighthouse
+
+Lighthouse results
+![Screenshot of Converty](src/assets/lighthouse.jpg)
 
 ## Project setup
 
