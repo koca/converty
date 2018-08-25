@@ -5,7 +5,7 @@ module.exports = {
   plugins: [
     purgecss({
       content: ["./src/**/*.vue"],
-      whitelist: ["body"],
+      whitelist: ["html", "body"],
       extractors: [
         {
           extractor: class TailwindExtractor {
