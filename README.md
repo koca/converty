@@ -2,7 +2,7 @@
 
 Transform your data. It works offline. Built with [Vue](https://vuejs.org/) and [Tailwindcss](https://tailwindcss.com/).
 
-Live: [converty.netlify.sh](https://converty.netlify.sh)
+Live: [converty.netlify.com](https://converty.netlify.com)
 
 ![Screenshot of Converty](src/assets/screenshot.png)
 
