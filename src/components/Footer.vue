@@ -3,7 +3,7 @@
     <div class="flex flex-col md:flex-row justify-between w-full">
       <div class="my-1 md:my-0 text-center">Transform your data, <strong class="text-grey-darkest">offline!</strong></div>
       <div class="my-1 md:my-0 text-center">Made by <a class="no-underline text-grey-darkest font-bold" href="https://mesutkoca.com">Mesut Koca</a></div>
-      <div class="my-1 md:my-0 text-center">Source code on <a class="no-underline text-grey-darkest font-bold" href="https://mesutkoca.com">GitHub</a></div>
+      <div class="my-1 md:my-0 text-center">Source code on <a class="no-underline text-grey-darkest font-bold" href="https://github.com/koca/converty">GitHub</a></div>
     </div>
   </div>
 </template>
