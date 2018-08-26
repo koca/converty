@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="app font-sans min-h-screen flex flex-col bg-grey-light overflow-hidden">
+  <div id="app" class="app font-system min-h-screen flex flex-col bg-grey-light overflow-hidden">
     <Header />
     <Examples />
     <Content />
@@ -28,5 +28,9 @@ export default {
 #appp {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.font-system {
+  font-family: system-ui, BlinkMacSystemFont, -apple-system, Helvetica,
+    Helvetica Neue, sans-serif;
 }
 </style>
